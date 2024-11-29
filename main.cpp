@@ -6,5 +6,6 @@ int main () {
   double sum;
   cout << "How may numbers are you going to type ";
   cin>> n;
+  cout<<"hello";
 return 0;
 }
